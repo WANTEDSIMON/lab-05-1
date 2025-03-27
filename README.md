@@ -35,7 +35,20 @@ I denna del skall du skriva en labbrapport som baseras på Labb 0.5 och Labb 1 s
 #### Labb 0.5:
 
 - Vilka steg var mest utmanande och varför?
-- Hur löste du de problem som uppstod under konfigureringen? 
+
+1. Installationen av Gns3,
+Uppkom problem när jag satte med Gns/Ubunto. Exempel stav fel på komandon, samt blandat med vilka steg som krävdes för instalation, maskingen blev krupt. 
+  
+- Hur löste du de problem som uppstod under konfigureringen?
+
+1.1 Exempel stav fel på komandon:
+Insåg att jag glömt numer 3 vid instalation av Gns3.
+
+1.2 Samt blandat med vilka steg som krävdes för instalation:
+Blev tydligare med att se video för installationen, "Komma igång i kursen, installation" kunde ha strukturerats upp lite tydligare. Eftersom stegen blev enkalare att uppfata under video. 
+
+1.3 Maskingen blev krupt: Blev tvungen att instalera om maskinen, eftresom "Vad jag uppfattade" hårdisken för ubuntu maskinen blev krupt. 
+
 - Vilken ny kunskap har du förvärvat genom denna uppgift? Var detaljerad och beskriv implementationsdetaljer och de steg ni var tvungna att ta för att fullfölja laborationen.
 
 ---
