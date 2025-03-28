@@ -13,6 +13,7 @@ Gateway (senare på routern): 10.0.0.1
 
 VPCS-konfiguration (högerklick > Console):
 
-bash
+```bash
 ip 10.0.0.10 255.255.255.0 10.0.0.1
+```
 (sedan samma för andra PC med annan IP)
