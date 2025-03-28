@@ -11,6 +11,7 @@ Den andra delen handlar om att du lämnar in en labbrapport för labb 0.5 och la
 ### Del 1 (testar kriterium 1 - 3)
 
 Betygsmål, satsar du på på G eller VG:
+Svara här:
 
 ---
 
