@@ -4,16 +4,15 @@
 
 - Öppna GNS3 > New Project > Döper projektet till, Lab-0-5
 
-## 2. Skapa första privata nätverket (10.0.0.0/24)
+## 2. Skapa en switch (lägg in Switch från Switches / Devices)
 
-- Dra in en switch från vänstra menyn > Dra in 2 st VPCS (Virtual PC).
-- Koppla båda PC till switchen > Tilldela IP-adresser: PC1: 10.0.0.10/24 - PC2: 10.0.0.20/24
+-  Dra in "Ethernet Switch" från Switches eller Devices och släpp den i arbetsytan
 
-Gateway (senare på routern): 10.0.0.1
+## 3. Lägg till två VPC-enheter
 
-VPCS-konfiguration (högerklick > Console):
+-  Lägg till två "VPC" från End Devices eller Devices och släpp dem på arbetsytan
 
-```bash
-ip 10.0.0.10 255.255.255.0 10.0.0.1
-```
-(sedan samma för andra PC med annan IP)
+##  4. Anslut VPC-enheterna till switchen
+
+- Anslut VPC 1 & 2 till switchen med hjälp av "Ethernet Cable" (Add a link)
+
