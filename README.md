@@ -50,6 +50,8 @@ Blev tydligare med att se video för installationen, "Komma igång i kursen, ins
 
 1.3 Maskingen blev krupt: Blev tvungen att instalera om maskinen, eftresom "Vad jag uppfattade" hårdisken för ubuntu maskinen blev krupt. 
 
+2. Valde att structurera upp strukturen för vare steg i Laben, för att tydligöra vad som behövdes samt kommandon.
+
 - Vilken ny kunskap har du förvärvat genom denna uppgift? Var detaljerad och beskriv implementationsdetaljer och de steg ni var tvungna att ta för att fullfölja laborationen.
 
 ---
