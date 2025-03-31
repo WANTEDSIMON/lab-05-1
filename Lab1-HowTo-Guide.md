@@ -21,6 +21,8 @@
 - PC3: ip 192.168.1.10 255.255.255.0 192.168.1.1
 - PC4: ip 192.168.1.20 255.255.255.0 192.168.1.1
 
+## 5. Koppla ihop routern med switcharna
+
 ---
 
 Steg i Bilder:
@@ -45,3 +47,9 @@ PC2:
 PC3:
 <br>
 <img src="img/img1.6.png">
+
+PC4:
+<img src="img/img1.7.png">
+
+5. Koppla ihop Nätverken
+<img src="img/img1.8.png">
