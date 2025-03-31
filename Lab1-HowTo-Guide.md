@@ -46,6 +46,9 @@ exit
 - PC1 ping PC3: ping 192.168.1.10
 - PC2 ping PC3: ping 192.168.1.10
 
+- PC1 ping PC3: ping 192.168.1.20
+- PC2 ping PC4: ping 192.168.1.20
+
 ---
 
 Steg i Bilder:
@@ -92,3 +95,9 @@ PC4:
 
 - PC2 ping PC3:
 <img src="img/img2.3.png">
+
+- PC1 ping PC4:
+<img src="img/img2.4.png">
+
+- PC2 ping PC4:
+<img src="img/img2.5.png">
