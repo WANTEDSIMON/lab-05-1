@@ -71,3 +71,11 @@ PC4:
 
 5. Koppla ihop Nätverken
 <img src="img/img1.8.png">
+
+6. Konfigureringen
+
+- interface GigabitEthernet0/0
+<img src="img/img1.9.png">
+
+- interface GigabitEthernet0/1
+<img src="img/img2.1.png">
