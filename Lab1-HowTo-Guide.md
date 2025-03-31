@@ -23,6 +23,23 @@
 
 ## 5. Koppla ihop routern med switcharna
 
+## 6. Konfigurera routern:
+```
+enable
+configure terminal
+
+interface GigabitEthernet0/0
+ip address 10.0.0.1 255.255.255.0
+no shutdown
+exit
+
+interface GigabitEthernet0/1
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+
+exit
+```
+
 ---
 
 Steg i Bilder:
