@@ -49,6 +49,7 @@ PC3:
 <img src="img/img1.6.png">
 
 PC4:
+<br>
 <img src="img/img1.7.png">
 
 5. Koppla ihop Nätverken
