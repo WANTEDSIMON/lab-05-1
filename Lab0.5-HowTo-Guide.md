@@ -28,24 +28,18 @@
 Steg i Bilder:
 
 2. Skapa en switch
-<br>
 <img src="img/img1.png">
 
-3.Lägg till två VPC-enheter
-<br>
+3. Lägg till två VPC-enheter
 <img src="img/img2.png">
 
 4. Anslut VPC-enheterna till switchen
-<br>
 <img src="img/img3.png">
 
 6. Tilldela IP-adresser till VPC-enheterna
-<br>
 <img src="img/img4.png">
-<br>
 <img src="img/img5.png">
 
 8. Testa kommunikationen:
-<br>
 <img src="img/img6.png">
 
