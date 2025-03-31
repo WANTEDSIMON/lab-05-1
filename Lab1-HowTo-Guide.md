@@ -27,7 +27,9 @@ Steg i Bilder:
 <img src="img/img1.2.png">
 
 PC1:
+<br>
 <img src="img/img1.3.png">
 
 PC2:
+<br>
 <img src="img/img1.4.png">
