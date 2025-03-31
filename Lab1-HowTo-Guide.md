@@ -49,6 +49,9 @@ exit
 - PC1 ping PC3: ping 192.168.1.20
 - PC2 ping PC4: ping 192.168.1.20
 
+### 4. Ge nätverket på 192.168.1.x/24 Internetåtkomst med NAT
+
+
 ---
 
 Steg i Bilder:
