@@ -18,6 +18,9 @@
 ## 4. Skapa det andra privata nätverket med IP-adressområdet 192.168.1.x/24.
 - Nätverk två innehåller en switch och minst två virtuella PC-enheter.
 
+- PC3: ip 192.168.1.10 255.255.255.0 192.168.1.1
+- PC4: ip 192.168.1.20 255.255.255.0 192.168.1.1
+
 ---
 
 Steg i Bilder:
@@ -38,3 +41,7 @@ PC2:
 
 4. Säter ihop nätverket två
 <img src="img/img1.5.png">
+
+PC3:
+<br>
+<img src="img/img1.6.png">
