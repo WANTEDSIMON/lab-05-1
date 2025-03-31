@@ -9,8 +9,9 @@
 - För att kunna Lägg till en Cisco IOS router via New Template > Routers > Cisco IOSv
 
 
+## 3. Skapa det första privata nätverket med IP-adressområdet 10.0.0.x/24.
+ - Inom detta nätverk, lägg till en switch och minst två virtuella PC-enheter.
 
----
 
 
 ---
@@ -19,3 +20,6 @@ Steg i Bilder:
 
 2. Lägg till  Cisco IOS router
 <img src="img/img1.1.png">
+
+3. Säter ihop nätverket ett
+<img src="img/img1.2.png">
