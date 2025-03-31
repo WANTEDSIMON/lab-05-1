@@ -40,6 +40,12 @@ no shutdown
 exit
 ```
 
+## 7. Testa åtkomsten mellan nätverken. Se till att alla enheter kan kommunicera med varandra.
+- Använder ping-kommandot från PC-enheter i ett nätverk till PC-enheter i det andra nätverket.
+
+- PC1 ping PC3: ping 192.168.1.10
+- PC2 ping PC3: ping 192.168.1.10
+
 ---
 
 Steg i Bilder:
@@ -79,3 +85,10 @@ PC4:
 
 - interface GigabitEthernet0/1
 <img src="img/img2.1.png">
+
+7. De olika pingen testerna
+- PC1 ping PC3:
+<img src="img/img2.2.png">
+
+- PC2 ping PC3:
+<img src="img/img2.3.png">
