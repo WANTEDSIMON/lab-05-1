@@ -12,7 +12,9 @@
 ## 3. Skapa det första privata nätverket med IP-adressområdet 10.0.0.x/24.
  - Inom detta nätverk, lägg till en switch och minst två virtuella PC-enheter.
 
-
+- PC1: ip 10.0.0.10 255.255.255.0 10.0.0.1
+- PC2: ip 10.0.0.20 255.255.255.0 10.0.0.1
+ 
 
 ---
 
@@ -23,3 +25,9 @@ Steg i Bilder:
 
 3. Säter ihop nätverket ett
 <img src="img/img1.2.png">
+
+PC1:
+<img src="img/img1.3.png">
+
+PC2:
+<img src="img/img1.4.png">
