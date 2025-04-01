@@ -50,7 +50,7 @@ Blev tydligare med att se video för installationen, "Komma igång i kursen, ins
 
 1.3 Maskingen blev krupt: Blev tvungen att instalera om maskinen, eftresom "Vad jag uppfattade" hårdisken för ubuntu maskinen blev krupt. 
 
-2. Valde att structurera upp strukturen för vare steg i Laben, för att tydligöra vad som behövdes samt kommandon.
+
 
 - Vilken ny kunskap har du förvärvat genom denna uppgift? Var detaljerad och beskriv implementationsdetaljer och de steg ni var tvungna att ta för att fullfölja laborationen.
 
@@ -59,5 +59,20 @@ Blev tydligare med att se video för installationen, "Komma igång i kursen, ins
 #### Labb 1:
 
 - Vilka steg var mest utmanande och varför?
-- Hur löste du de problem som uppstod under konfigureringen? 
+
+1. Stegen hur man gör allt var inte lika simpel som lab 0.5.
+
+2. Även konfigurering av NAT nod. Blev lite svårt hur man skulle structurera upp kommandon.
+
+3. Även att skriva vilka portar som användes. Blev bakofram men fungerar för att komma ihog kopplingen när allt följer samma strukture :),
+
+- Hur löste du de problem som uppstod under konfigureringen?
+
+1. Valde att structurera upp strukturen för vare steg i Laben, för att tydligöra vad som behövdes samt kommandon.
+
+3. Vale att gå vidare emd det jag skrev....
+
+3. Uppfatade senare man kunde trycka på en knapp i Gns somgör det automatisk.
+
+
 - Vilken ny kunskap har du förvärvat genom denna uppgift? Var detaljerad och beskriv implementationsdetaljer och de steg ni var tvungna att ta för att fullfölja laborationen.
