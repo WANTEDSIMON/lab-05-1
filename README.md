@@ -66,13 +66,13 @@ Vanlig konfigurering görs via webbläsare, t.ex. genom att skriva in IP-adresse
 
 Switch: Är en nätverkskomponent som kopplar ihop flera enheter inom ett LAN, t.ex. datorer, skrivare och servrar. Till skillnad från en enkel hub, är en switch "smart" – den lär sig vilken MAC-adress som är kopplad till varje port och skickar endast datatrafik till rätt mottagare, vilket förbättrar prestanda och säkerhet.
 
-nätversk kabbel: 
+nätversk kabbel: Oftast av typen Ethernet (t.ex. Cat5e, Cat6), används för att koppla ihop routrar, switches och enheter i nätverket. Kabeln möjliggör snabb och stabil dataöverföring, ofta upp till 1 Gbps eller mer. I professionella nätverk används oftast Cat6 eller Cat6a för att klara högre hastigheter och längre avstånd utan störningar.
 
 #### Fråga 3 (testar kriterium 3)
 Beskriv hur man bäst genomför en felsökning och hur man övervakar trafiken på ett nätverk. Redogör även för hur verktyget Wireshark används för detta ändamål samt vilka de viktigaste funktionerna i Wireshark är.
 
-
-Wireshark
+Felsökning och trafikövervakning i nätverk – med fokus på Wireshark:
+Att kunna felsöka och övervaka ett nätverk på ett systematiskt sätt är avgörande för att kunna upprätthålla en säker och stabil IT-miljö. När nätverket inte fungerar som det ska, kan orsakerna vara många: felaktig konfiguration, trasig hårdvara, överbelastning eller till och med säkerhetsintrång. För att identifiera problemet använder man både logiskt tänkande och specialiserade verktyg – där Wireshark är ett av de mest kraftfulla.
 
 ---
 
