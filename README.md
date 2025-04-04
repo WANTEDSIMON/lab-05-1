@@ -18,13 +18,28 @@ Svara här:
 #### Fråga 1 (testar kriterium 1)
 Beskriv minst tre vanliga hot mot nätverksmiljöer. Beskriv även vanligt förekommande sårbarheter i nätverksmiljöer samt vilka metoder som vanligtvis används för att angripa dem.
 
+DDos Attack - Denial-of-service attack
+
+Phishing
+
+SQL injection
+
 ---
 
 #### Fråga 2 (testar kriterium 2)
 Förklara vilka typer av hårdvara som vanligtvis finns i en professionell nätverkstopologi samt förklara deras roll i nätverket. Beskriv även hur man konfigurerar dessa. Slutligen beskriver du även hur man vanligtvis installerar ett operativsystem för nätverkshantering.
 
+Router
+
+Switch
+
+nätversk kabbel
+
 #### Fråga 3 (testar kriterium 3)
 Beskriv hur man bäst genomför en felsökning och hur man övervakar trafiken på ett nätverk. Redogör även för hur verktyget Wireshark används för detta ändamål samt vilka de viktigaste funktionerna i Wireshark är.
+
+
+Wireshark
 
 ---
 
