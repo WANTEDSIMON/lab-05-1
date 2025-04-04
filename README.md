@@ -1,11 +1,16 @@
 # Inlämningsuppgift 1 | Labb 0.5 & Labb 1
 
+---
 
 How to: 
 
 https://github.com/WANTEDSIMON/lab-05-1/blob/main/Lab1-HowTo-Guide.md
+
+---
+
 https://github.com/WANTEDSIMON/lab-05-1/blob/main/Lab0.5-HowTo-Guide.md
 
+---
 
 ## Instruktioner
 
