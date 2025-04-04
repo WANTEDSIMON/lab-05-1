@@ -51,7 +51,19 @@ exit
 
 ### 4. Ge nätverket på 192.168.1.x/24 Internetåtkomst med NAT
 
+Börja med att koppla om alla anslutningar till portar från routern. 
 
+Man kan aven ta bort den och sätta dit en ny, + bytter namn till router. Anledningen är att configrationen jag använder nu är annorluna än åvan.
+
+Router kommando:
+```
+
+```
+
+NAT kommandon:
+```
+
+```
 ---
 
 Steg i Bilder:
