@@ -77,11 +77,27 @@ exit
 
 ```
 
+![image](https://github.com/user-attachments/assets/a5b2c798-0637-4b21-b881-b5159937b68d)
+
+![image](https://github.com/user-attachments/assets/d27318bf-2a33-49e9-a8cb-61a0883924c5)
+
+![image](https://github.com/user-attachments/assets/0eac27d8-5a70-4a5d-bfae-fc2666820e27)
+
+
 NAT kommandon:
 ```
 access-list 1 permit 192.168.1.0 0.0.0.255
-ip nat inside source list 1 interface GigabitEther
+ip nat inside source list 1 interface GigabitEther 0/0 overload
 
+interface GigabitEther 0/0
+ip nat outside
+exit
+
+interface GigabitEther 0/1
+ip nat inside
+exit
+
+ip route 0.0.0.0 0.0.0..0 192.168.122.1
 ```
 ---
 
