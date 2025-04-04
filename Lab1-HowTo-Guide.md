@@ -86,6 +86,7 @@ exit
 
 NAT kommandon:
 ```
+config t
 access-list 1 permit 192.168.1.0 0.0.0.255
 ip nat inside source list 1 interface GigabitEther 0/0 overload
 
@@ -97,7 +98,7 @@ interface GigabitEther 0/1
 ip nat inside
 exit
 
-ip route 0.0.0.0 0.0.0..0 192.168.122.1
+ip route 0.0.0.0 0.0.0.0 192.168.122.1
 ```
 ---
 
