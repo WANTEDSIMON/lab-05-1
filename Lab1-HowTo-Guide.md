@@ -62,6 +62,18 @@ G0/2 till nätverk 1 - Switch1 port 0
 
 Router kommando:
 ```
+enable
+configure terminal
+
+interface GigabitEthernet0/0
+ip address 192.168.122.2 255.255.255.0
+no shutdown
+exit
+
+interface GigabitEthernet0/1
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+exit
 
 ```
 
