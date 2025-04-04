@@ -100,6 +100,17 @@ exit
 
 ip route 0.0.0.0 0.0.0.0 192.168.122.1
 ```
+
+Nät ett fix:
+```
+enable
+config t
+interface GigabitEthernet0/2
+ip address 10.0.0.1 255.255.255.0
+no shutdown
+exit
+```
+
 ---
 
 Steg i Bilder:
