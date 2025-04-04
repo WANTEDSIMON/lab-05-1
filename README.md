@@ -37,6 +37,10 @@ Skydd mot phishing handlar mycket om utbildning och medvetenhet. Användare bör
 
 ### SQL injection
 
+Hot nummer tre. Tänkte jag att företag använder databaser för hantering av data. Och att det bör vara en del i deras nätverk. Även om det inte är själva nätverket så tänker jag att det bygger på hårdvara som man koplar in i sitt nätverk. 
+
+Så jag var intreserad i "SQL injection", 
+
 ---
 
 #### Fråga 2 (testar kriterium 2)
@@ -81,6 +85,9 @@ Blev tydligare med att se video för installationen, "Komma igång i kursen, ins
 
 
 - Vilken ny kunskap har du förvärvat genom denna uppgift? Var detaljerad och beskriv implementationsdetaljer och de steg ni var tvungna att ta för att fullfölja laborationen.
+
+Kanske att jag tidigare är van med packet tracer. Så detta var en ny miljö att arbeta utifrån. har väll även suttit med rikdiga hårdvara och vet kosntnaden som förekommer och att man behöver ha plats för switchar är rätt klumpiga och bökiga (24 port).
+
 
 ---
 
