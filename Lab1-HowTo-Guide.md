@@ -55,6 +55,11 @@ Börja med att koppla om alla anslutningar till portar från routern.
 
 Man kan aven ta bort den och sätta dit en ny, + bytter namn till router. Anledningen är att configrationen jag använder nu är annorluna än åvan.
 
+G0/0 till Nat molnet
+
+G0/1 till nätverk 2 - Switch2 0
+G0/2 till nätverk 1 - Switch1 port 0
+
 Router kommando:
 ```
 
@@ -62,6 +67,8 @@ Router kommando:
 
 NAT kommandon:
 ```
+access-list 1 permit 192.168.1.0 0.0.0.255
+ip nat inside source list 1 interface GigabitEther
 
 ```
 ---
