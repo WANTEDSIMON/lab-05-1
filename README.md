@@ -39,18 +39,34 @@ Skydd mot phishing handlar mycket om utbildning och medvetenhet. Användare bör
 
 Hot nummer tre. Tänkte jag att företag använder databaser för hantering av data. Och att det bör vara en del i deras nätverk. Även om det inte är själva nätverket så tänker jag att det bygger på hårdvara som man koplar in i sitt nätverk. 
 
-Så jag var intreserad i "SQL injection", 
+Så jag var intreserad i "SQL injection", är en av de vanliga webb hacking metoderna. Man plaserar in malicious code skadlig kod till SQL statements via Inmatning av webbsida. "SQL in Web Pages" Brukar hända när du frågar en användare för inmatning av användare nam/userid och istället för ett namn/id ger användaren dig en SQL-sats som du omedvetet kommer att köra på din databas. "Målet är att manipulera databasen genom att "injicera" (lägga till) skadlig SQL-kod i ett formulärfält, t.ex. ett inloggningsformulär eller ett sökfält. Om systemet inte validerar användarens inmatning ordentligt, kan denna kod köras av servern och ge angriparen tillgång till känslig information."
+
+En attak som denna kan leda till att angriparen får åtkomst till alla användardata i databasen, till exempel namn, e-postadresser, lösenord eller till och med finansiell information. I värsta fall kan de också radera eller ändra innehållet i databasen.
+
+Skydd mot SQL-injection inkluderar att alltid använda parametriserade SQL-frågor, validera all inmatning, samt att använda moderna ramverk och bibliotek som automatiskt hanterar dessa risker.
+
+
+"Vanliga sårbarheter och metoder för angrepp"
+
+Exempel: Ouppdaterad programvara, svaga lösenord, Bristande åtkomstkontroller.
+
+- Svaga lösenord: Att användaren använder samma lösen på flera ställen. Lösenord som är lätt att lista ut. Använder för få bokstäver samt tecken. Angreppsmetoder - "Brute force-attacker"
+
+- Ouppdaterad programvara: inte använder senast updatering, vilken kan leda till säkerhetsbrister som någon listat ut hur man kommer in. Angreppsmetoder - "Skadlig kod (malware)"
+
 
 ---
 
 #### Fråga 2 (testar kriterium 2)
 Förklara vilka typer av hårdvara som vanligtvis finns i en professionell nätverkstopologi samt förklara deras roll i nätverket. Beskriv även hur man konfigurerar dessa. Slutligen beskriver du även hur man vanligtvis installerar ett operativsystem för nätverkshantering.
 
-Router
+Router: En router (eller "ruttare" på svenska) fungerar som en trafikledare mellan olika nätverk, till exempel mellan ett lokalt nätverk (LAN) och internet. Routern har en IP-adress på det lokala nätverket och hanterar adressering, NAT (Network Address Translation) och brandväggsregler. Den avgör vilken väg datan ska ta för att nå rätt mottagare, oavsett om det är en enhet inom det lokala nätverket eller utanför.
 
-Switch
+Vanlig konfigurering görs via webbläsare, t.ex. genom att skriva in IP-adressen 192.168.1.1
 
-nätversk kabbel
+Switch: Är en nätverkskomponent som kopplar ihop flera enheter inom ett LAN, t.ex. datorer, skrivare och servrar. Till skillnad från en enkel hub, är en switch "smart" – den lär sig vilken MAC-adress som är kopplad till varje port och skickar endast datatrafik till rätt mottagare, vilket förbättrar prestanda och säkerhet.
+
+nätversk kabbel: 
 
 #### Fråga 3 (testar kriterium 3)
 Beskriv hur man bäst genomför en felsökning och hur man övervakar trafiken på ett nätverk. Redogör även för hur verktyget Wireshark används för detta ändamål samt vilka de viktigaste funktionerna i Wireshark är.
