@@ -1,5 +1,12 @@
 # Inlämningsuppgift 1 | Labb 0.5 & Labb 1
 
+
+How to: 
+
+https://github.com/WANTEDSIMON/lab-05-1/blob/main/Lab1-HowTo-Guide.md
+https://github.com/WANTEDSIMON/lab-05-1/blob/main/Lab0.5-HowTo-Guide.md
+
+
 ## Instruktioner
 
 Denna examination består av två olika delar. Den första delen består av tre frågor som skall besvaras med fritextsvar. Varje fråga är kopplad till ett specifikt betygskriterie, så var noga med att kontrollera ditt svar mot kriteriet innan du lämnar in.
