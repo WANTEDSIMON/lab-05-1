@@ -18,11 +18,24 @@ Svara här:
 #### Fråga 1 (testar kriterium 1)
 Beskriv minst tre vanliga hot mot nätverksmiljöer. Beskriv även vanligt förekommande sårbarheter i nätverksmiljöer samt vilka metoder som vanligtvis används för att angripa dem.
 
-DDos Attack - Denial-of-service attack
+### DDos Attack - Denial-of-service attack
 
-Phishing
+En attack där syftet är att överbelasta ett system genom att skicka mycket stora mängder trafik till en server eller tjänst. Handlar om att man försöker sicka väldigt många förfrågningar stor mängd data.  Det kan till exempel handla om att tusentals eller till och med miljontals automatiserade förfrågningar skickas till en webbplats/nätverk under kort tid. Syften är att försöka överbelasta servern så den blir segare vilket med för att inte längre kan hantera vanliga användares trafik, vilket gör tjänsten otillgänglig. En eller flera attacker orsakar ekonomiska förluster för företag, särskilt inom e-handel eller online-tjänster där tillgänglighet är avgörande.
 
-SQL injection
+Detta utförs ofta med hjälp av så kallade "botnät/zombies".  ”Har för mig även att ping kan användas, om Man det sickas ut tillräckligt ping förfrågningar. Finns verktyg/extension på Chrome Web Store, exempel öppna upp väldigt många flickar till tjänsten. ”
+
+Effekterna av en DDoS-attack kan vara allt från försämrad prestanda till att hela tjänsten går ner. Det finns sätt att skydda sig, till exempel genom att använda lastbalanserare, trafikövervakning, brandväggar.
+
+### Phishing
+
+Andra hotet jag tänker mig är Phishing attacker. Phishing är en form av "social engineering". Där någon försöker lura dig som användare/arbetare på företag. Exempel kan vara att man har en mailadress som är lik ett kundföretag kanske. Där man använder sig av någon annan bokstav som liknar deras originaladress. På mejlet man får kan det vara länk man trycker på som laddar ner virus, eller program som skulle kunna tillhöra kundens förfrågan ” trojan horse”. Virus i sin tur kan leda till ransomware attack om det blir riktigt alvarligt. Exempel om användaren som blev drabbat har administration rättigheter i ett system. De kan även få tag i uppgifter genom att skapa upp liknande hemsidor där då användaren skriver upp deras inloggningsuppgifter, men vet inte om att i själva verket skriver de in på en förfalskad sida.
+
+Phishing är ett av de vanligaste hoten eftersom det riktar sig mot människors beteende och inte mot tekniska brister. Det kräver alltså inte mycket teknisk kunskap från angriparen, bara en förmåga att lura användare. Det kan ske via e-post, sms (så kallad smishing), telefonsamtal (vishing) eller via sociala medier.
+
+Skydd mot phishing handlar mycket om utbildning och medvetenhet. Användare bör lära sig att vara kritiska till länkar och avsändare, samt använda tvåfaktorsautentisering för extra skydd. Organisationer kan också använda e-postfilter och säkerhetsverktyg som känner igen och blockerar phishingförsök.
+
+
+### SQL injection
 
 ---
 
